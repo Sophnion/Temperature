@@ -1,0 +1,3 @@
+version: 8.0-RC1
+svn revision: 38745
+build date: 23-May-2012 12:14
